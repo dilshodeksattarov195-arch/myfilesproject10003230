@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdelete",
+        "uuid": 20849650,
+        "checksum": "t0ubsd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
